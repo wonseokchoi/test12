@@ -1,0 +1,17 @@
+D:\Source Win\filedirectoryNamer\filedirectoryNamer\bin\Debug\filedirectoryNamer.exe
+D:\Source Win\filedirectoryNamer\filedirectoryNamer\bin\Debug\filedirectoryNamer.pdb
+D:\Source Win\filedirectoryNamer\filedirectoryNamer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Source Win\filedirectoryNamer\filedirectoryNamer\obj\x86\Debug\filedirectoryNamer.frmMain.resources
+D:\Source Win\filedirectoryNamer\filedirectoryNamer\obj\x86\Debug\filedirectoryNamer.Properties.Resources.resources
+D:\Source Win\filedirectoryNamer\filedirectoryNamer\obj\x86\Debug\ResGen.read.1.tlog
+D:\Source Win\filedirectoryNamer\filedirectoryNamer\obj\x86\Debug\ResGen.write.1.tlog
+D:\Source Win\filedirectoryNamer\filedirectoryNamer\obj\x86\Debug\filedirectoryNamer.exe
+D:\Source Win\filedirectoryNamer\filedirectoryNamer\obj\x86\Debug\filedirectoryNamer.pdb
+D:\GitHub\test12\Test12Solution\filedirectoryNamer\obj\x86\Debug\filedirectoryNamer.exe
+D:\GitHub\test12\Test12Solution\filedirectoryNamer\obj\x86\Debug\filedirectoryNamer.pdb
+D:\GitHub\test12\Test12Solution\filedirectoryNamer\bin\Debug\filedirectoryNamer.exe
+D:\GitHub\test12\Test12Solution\filedirectoryNamer\bin\Debug\filedirectoryNamer.pdb
+D:\GitHub\test12\Test12Solution\filedirectoryNamer\obj\x86\Debug\filedirectoryNamer.csprojResolveAssemblyReference.cache
+D:\GitHub\test12\Test12Solution\filedirectoryNamer\obj\x86\Debug\filedirectoryNamer.frmMain.resources
+D:\GitHub\test12\Test12Solution\filedirectoryNamer\obj\x86\Debug\filedirectoryNamer.Properties.Resources.resources
+D:\GitHub\test12\Test12Solution\filedirectoryNamer\obj\x86\Debug\filedirectoryNamer.csproj.GenerateResource.Cache
